@@ -44,11 +44,10 @@ Traffic congestion is a major issue in urban environments. This project proposes
 
 ## Future Enhancements
 
-GUI dashboard for live monitoring
-Automatic traffic signal control integration
-Cloud-based traffic analytics
-Machine learning-based congestion prediction
-Multi-camera traffic monitoring
+1.GUI dashboard for live monitoring
+2.Automatic traffic signal control integration
+3.Cloud-based traffic analytics
+4.Machine learning-based congestion prediction
 
 ---
 
