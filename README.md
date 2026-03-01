@@ -42,7 +42,7 @@ Traffic congestion is a major issue in urban environments. This project proposes
 
 ---
 
-##Future Enhancements
+## Future Enhancements
 
 GUI dashboard for live monitoring
 Automatic traffic signal control integration
@@ -52,7 +52,7 @@ Multi-camera traffic monitoring
 
 ---
 
-##Author
+## Author
 
 Pallavi Chougale
 
